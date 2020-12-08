@@ -1,2 +1,4 @@
-- 🔭 I’m currently working on static webpages
-- 🌱 I’m currently learning Vue.js
+</> coding since 2020
+
+> 🔭 currently working on static webpages
+> 🌱 currently learning Vue.js
