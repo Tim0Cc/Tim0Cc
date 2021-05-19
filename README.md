@@ -1,5 +1,5 @@
 ## </> coding since 2020
 
 ### 🔭 currently working on 
-+ *FRONTend* static webpages 
-+ *BACKend* 🌱 learning node.js (**MERN** – stack)
++ *FRONTEND* static webpages 
++ *FULLSTACK* 🌱 learning node.js (**MERN** – stack)
